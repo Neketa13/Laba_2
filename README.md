@@ -1,2 +1,2 @@
 # Laba_2
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/Neketa13/Laba_2/blob/main/гофман.jpg)
